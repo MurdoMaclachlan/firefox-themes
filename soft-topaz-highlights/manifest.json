@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Soft Topaz Highlights",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(33, 33, 33)",
+      "toolbar_text": "rgb(234, 212, 199)",
+      "frame": "rgb(0, 0, 0)",
+      "tab_background_text": "rgb(234, 212, 199)",
+      "toolbar_field": "rgb(0, 0, 0)",
+      "toolbar_field_text": "rgb(234, 212, 199)",
+      "tab_line": "rgb(202, 63, 8)",
+      "popup": "rgb(33, 33, 33)",
+      "popup_text": "rgb(234, 212, 199)",
+      "button_background_active": "rgb(89, 89, 89)",
+      "button_background_hover": "rgb(47, 47, 47)",
+      "icons_attention": "rgb(232, 72, 8)",
+      "icons": "rgb(234, 212, 199)",
+      "toolbar_field_border_focus": "rgb(187, 57, 5)",
+      "toolbar_field_border": "rgb(139, 43, 4)",
+      "toolbar_top_separator": "rgb(139, 43, 4)",
+      "tab_loading": "rgb(202, 63, 8)"
+    }
+  }
+}
